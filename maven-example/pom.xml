@@ -55,4 +55,20 @@
             </plugins>
         </pluginManagement>
     </build>
+    
+    
+    <!-- ADDING A REPOSITORY IN THE POM !!!!!!!!!!! -->
+    <repositories>
+    <repository>
+      <id>my-repo1</id>
+      <name>your custom repo</name>
+      <url>http://jarsm2.dyndns.dk</url>
+    </repository>
+    <repository>
+      <id>my-repo2</id>
+      <name>your custom repo</name>
+      <url>http://jarsm2.dyndns.dk</url>
+    </repository>
+  </repositories>
+  
 </project>
