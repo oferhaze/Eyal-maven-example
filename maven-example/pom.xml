@@ -33,7 +33,7 @@
   <dependency>
             <groupId>au.org.trogdor.xamarin-gradle-plugins</groupId>
             <artifactId>lib</artifactId>
-            <version>0.1.1-iHomeAutomate--SNAPSHOT</version>
+            <version>0.1.1-iHomeAutomate-SNAPSHOT</version>
             <scope>test</scope>
         </dependency>
 
